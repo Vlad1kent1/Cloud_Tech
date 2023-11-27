@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\bin",
+    "\\bin\\Release",
+    "\\bin\\Release\\net7.0",
+    "\\Controllers",
+    "\\Controllers\\Commands",
+    "\\obj",
+    "\\obj\\Debug",
+    "\\Properties",
+    "\\Properties\\PublishProfiles"
+  ],
+  "SelectedNode": "\\Bot.cs",
+  "PreviewInSolutionExplorer": false
+}
